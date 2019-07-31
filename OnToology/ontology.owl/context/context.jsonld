@@ -1,0 +1,14 @@
+{
+  "@context" : {
+    "hasChild" : {
+      "@id" : "http://www.semanticweb.org/ux360cak/ontologies/2019/6/untitled-ontology-45#hasChild",
+      "@type" : "@id"
+    },
+    "Parent" : {
+      "@id" : "http://www.semanticweb.org/ux360cak/ontologies/2019/6/untitled-ontology-45#Parent"
+    },
+    "Person" : {
+      "@id" : "http://www.semanticweb.org/ux360cak/ontologies/2019/6/untitled-ontology-45#Person"
+    }
+  }
+}
